@@ -1,5 +1,6 @@
 # AP-Final-Project-Phase2
 The second phase of the final project
+
 to execute, run "./utrip.out hotels.csv ratings.csv"
 
 You can also use the following commands in this phase:
